@@ -1,1 +1,2 @@
 # ds_militares_das
+O objetivo deste estudo é entender a distribuição de militares que atuam em cargos públicos de Direção, Assessoramento e Supervisão em orgãos públicos brasileiros. A motivação desse estudo é fornecer ao público dados e os métodos de análise, realizados em Python, independente de posições políticas.
