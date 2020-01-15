@@ -2,5 +2,6 @@
 *.csv
 *.zip
 *.DS_Store
+*.gz
 *.gitignore
 key_google.py
